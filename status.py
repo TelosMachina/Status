@@ -2,11 +2,6 @@ import os
 import time
 import datetime
 
-testing
-123
-456
-789
-
 print("Checking host statuses...")
 
 #Url variable initializaiton
