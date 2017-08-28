@@ -4,7 +4,7 @@ import datetime
 
 print("Checking host statuses...")
 
-#Url variable initializaiton
+#Url variable initialization
 url_down = 0 #Count of how many times the url has been pinged as down until a successful ping resets the count
 url_timestamp = 0 #Timestamp of the ping
 
