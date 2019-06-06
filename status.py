@@ -24,5 +24,5 @@ def check(url, url_grace): #url = url of host to check; url_grace = how many min
             print("and has been down for", url_down - 1, "minutes")
 
 while True:
-    check("192.168.1.254", 5)
-    time.sleep(60)
+    check("http://www.google.com", 5)
+    time.sleep(2)
